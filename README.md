@@ -3,10 +3,5 @@
 Eager to learn web programming & marketing and financial topics .<br/>
 Always Learing ...
 
-
-
-
-
-
 <h3>My Proficiency :</h3>
 <img src='https://skillicons.dev/icons?i=html,css,js,wordpress,git,github' alt = 'My Skills' />
