@@ -1,5 +1,5 @@
 <h2 align = 'center'>Abolfazl farshchi</h2>
-<h3 alighn = 'center'> Junior FrontEnd Developer </h3>
+<h2 alighn = 'center'> Junior FrontEnd Developer </h2>
 
 
 
