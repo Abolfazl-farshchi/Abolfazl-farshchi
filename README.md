@@ -1,6 +1,6 @@
 <h1 align = 'center'>h1</h1>
-<h2>h2</h2>
-<h3>h3</h3>
-<h4>h4</h4>
-<h5>h5</h5>
-<h6>h6</h6>
+
+
+
+<h3>My Proficiency :</h3>
+<img src='https://skillicons.dev/icons?i=html,css,js,wordpress,git,github' alt = 'My Skills' />
